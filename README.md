@@ -6,8 +6,6 @@ An end-to-end **data analytics project** completed during my CodeAlpha Data Anal
 
 ### 📊 Dashboard
 
-### 📊 Dashboard
-
 #### Executive Overview
 
 ![Executive Overview](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Book%20Analytics%20Executive%20Overview.png)
