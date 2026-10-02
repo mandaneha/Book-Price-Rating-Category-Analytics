@@ -10,15 +10,15 @@ An end-to-end **data analytics project** completed during my CodeAlpha Data Anal
 
 #### Executive Overview
 
-![Executive Overview](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Executive-Overview.png)
+![Executive Overview](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Book%20Analytics%20Executive%20Overview.png)
 
 #### Detailed Analysis
 
-![Detailed Analysis](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Detailed-Analysis.png)
+![Detailed Analysis](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Book%20Analytics%20Detailed%20Analysis.png)
 
 #### Category Insights
 
-![Category Insights](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Category-Insights.png)
+![Category Insights](https://github.com/mandaneha/Book-Price-Rating-Category-Analytics/blob/main/Book%20Analytics%20Category%20Insights.png)
 
 
 ### 📈 Key Insights
